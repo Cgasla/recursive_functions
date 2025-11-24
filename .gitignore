@@ -1,0 +1,38 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.lib
+*.so
+*.a
+
+# Debugging and temporary files
+*.pdb
+*.ilk
+*.suo
+*.user
+*.log
+*.tmp
+*.bak
+*.swp
+
+# IDE specific files (example for Visual Studio and CLion)
+.vs/
+bin/
+obj/
+Debug/
+Release/
+cmake-build-*/
+.idea/
+*.iml
+
+# Dependencies and package managers (e.g., Conan)
+conan_deps/
+conanbuildinfo.cmake
+conanfile.lock
+
+# Other common files
+*~
+.#*
