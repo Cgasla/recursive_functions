@@ -9,4 +9,5 @@ add_executable(untitled9 main.cpp
         task4.cpp
         task5.cpp
         task6.cpp
+        task7.cpp
 )
